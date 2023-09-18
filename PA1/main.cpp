@@ -1,3 +1,19 @@
+/* ADVANTAGES/DISADVANTAGES LINKED LIST:
+
+* Pros: Simplifies the process of inserting and deleting elements
+* 
+* Cons: Consumes a significant amount of memory, challenging to navigate in reverse, inability to directly access individual elements
+* 
+* 
+* ADVANTAGES/DISADVANTAGES ARRAY:
+* 
+* Pros: Allows for direct access to individual elements without needing to traverse through others
+* 
+* 
+* 
+*/
+
+
 #include "header.h"
 
 int main(void)
