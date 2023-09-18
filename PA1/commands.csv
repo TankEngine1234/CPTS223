@@ -1,0 +1,30 @@
+pwd,prints the path of the working directory starting from the root
+mkdir,creates directories
+cp,is used to copy files or group of files or directory
+scp,allows secure transferring of files between a local host and a remote host or between two remote hosts
+gcc,is a compiler system produced by the GNU Project supporting various programming languages
+kill,is a built-in command which is used to terminate processes manually
+chmod,allows you to change the permissions on a file using either a symbolic or numeric mode or a reference file
+chown,"allows you to change the user and/or group ownership of a given file directory, or symbolic link"
+echo,is used to display line of text/string that are passed as an argument
+find,is a command-line utility that locates files based on some user-specified criteria
+ls,it lists the files in the current working directory
+rmdir,is used remove empty directories from the filesystem in Linux
+mv,is a Unix command that moves one or more files or directories from one place to another
+man,is used to display the user manual of any command that we can run on the terminal
+make,is typically used to build executable programs and libraries from source code
+top,provides a dynamic real-time view of a running system
+cat,It reads data from the file and gives their content as output
+df,used to display the amount of available disk space for file systems on which the invoking user has appropriate read access
+exit,is used to exit the shell where it is currently running
+finger,is a user information lookup command which gives details of all the users logged in
+cd,is used to change the current directory
+rm,"used to remove objects such as computer files, directories and symbolic links from file systems"
+ssh,provides a secure encrypted connection between two hosts over an insecure network
+g++,used for compiling a CPP file to generate executable target file
+ps,displays the currently-running processes
+who,displays a list of users who are currently logged into the computer
+alias,enables a replacement of a word by another string
+grep,used to search for a string of characters in a specified file
+clear,clear the terminal screen
+free,displays the total amount of free space available along with the amount of memory used
